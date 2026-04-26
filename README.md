@@ -5,18 +5,18 @@ Assuming you have installed the [Aesthetics pak](https://github.com/redria7/next
 
 <img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Kanagawa/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Magnolia/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Magnolia/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Cerulean/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Cerulean/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Forest/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Forest/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Ice/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Ice/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Red/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Red/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Rose/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Rose/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Sunset/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Sunset/preview.png" width="512">
 
-<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Twilight/preview.png)
+<img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Seigaiha_Twilight/preview.png" width="512">
