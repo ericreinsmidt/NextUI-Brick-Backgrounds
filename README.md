@@ -5,6 +5,7 @@ Assuming you have installed the [Aesthetics pak](https://github.com/redria7/next
 
 <div>
   <img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Kanagawa/preview.png" width="256">
+  <img src="https://github.com/ericreinsmidt/NextUI-Brick-Backgrounds/blob/main/Screenshots/Kanagawa.png" width="256">
 </div>
 
 <div>
